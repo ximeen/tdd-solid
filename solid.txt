@@ -1,0 +1,17 @@
+SOLID
+
+São 5 principios
+
+1 - S - Singe responsibility princile
+
+Separar coisas que mudam por motivos diferentes
+
+
+2 - O - Open close Princeple
+
+Devemos estar fechado para modificação e abertos a extenção
+
+
+3 - Liskov Substitucion Princeple
+
+Se S (Agua, Pizza) é subclasse de T( Item ) em um programa, deve ser possivel substituir instancias de T ( Item ) por instancias de S (Agua, Pizza), sem quebrar o software
